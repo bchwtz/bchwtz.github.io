@@ -1,6 +1,4 @@
 
-# don't push local rendered files in master branch
-public/
 #
 .Rproj.user
 .Rhistory
