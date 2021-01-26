@@ -1,8 +1,8 @@
 baseurl: https://example.com/
 title: Newsroom
 theme: newsroom
-author: Weru
-copyright: Copyright © 2019, Weru and the Hugo Authors; all rights reserved.
+author: BCHWTZ
+copyright: Copyright © 2019
 canonifyurls: yes
 paginate: 6
 markup:
